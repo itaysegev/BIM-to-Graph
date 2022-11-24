@@ -1,0 +1,853 @@
+==========
+Category ,  Site
+Design Option ,  -1
+UniqueId, 5689aa32-4e90-4011-ae95-fa217ffa8e1e-0001090c
+Id, 67852
+==========
+Category ,  Levels
+Design Option ,  -1
+Name ,  Level 0
+Type Id ,  349
+Family ,  Level
+Story Above ,  Default
+Structural ,  No
+UniqueId, 37976caf-bafc-45ad-b128-8f494d2cc7e0-0004608c
+Elevation ,  0
+Id, 286860
+Family and Type ,  Level
+Building Story ,  Yes
+Type ,  1/4" Head
+Scope Box ,  None
+Computation Height ,  0
+==========
+Category ,  Levels
+Design Option ,  -1
+Name ,  Level 1
+Type Id ,  349
+Family ,  Level
+Story Above ,  Default
+Structural ,  No
+UniqueId, 37976caf-bafc-45ad-b128-8f494d2cc7e0-00046189
+Elevation ,  310
+Id, 287113
+Family and Type ,  Level
+Building Story ,  Yes
+Type ,  1/4" Head
+Scope Box ,  None
+Computation Height ,  0
+==========
+Space Outdoor Air Option ,  From Space Type
+Service Type ,  <Building>
+Use Humidification Set Point ,  No
+Use Dehumidification Set Point ,  No
+Category ,  HVAC Zones
+Perimeter ,  0
+Design Option ,  -1
+Phase Id ,  2
+Calculated Area per Heating Load ,  0.0000 SF/MBh
+Name ,  Default
+Humidification Set Point ,  0
+Calculated Supply Airflow per area ,  0.00 CFM/SF
+Occupied Area ,  0 m²
+Occupied Volume ,  0.00 m³
+Calculated Heating Load per area ,  0.00 Btu/(h·ft²)
+Outdoor Air per Area ,  0.00 CFM/SF
+Gross Area ,  0 m²
+Cooling Air Temperature ,  54 °F
+Phase ,  01 - Existing
+Use Air Changes Per Hour ,  No
+Calculated Area per Cooling Load ,  0.00 SF/ton
+Use Outside Air Per Person ,  No
+Use Outside Air Per Area ,  No
+UniqueId, bda0725a-2cac-40e7-8a8d-abc569951f60-00013f2a
+Id, 81706
+Calculated Supply Airflow ,  0 CFM
+Gross Volume ,  0.00 m³
+Dehumidification Set Point ,  0
+Calculated Heating Load ,  0.0 Btu/h
+Outdoor Air Rate / Air Changes per Hour ,  0
+Image ,  <None>
+Calculated Cooling Load per area ,  0.00 Btu/(h·ft²)
+Cooling Set Point ,  74 °F
+Outdoor Air per Person ,  0 CFM
+Coil Bypass ,  0.00%
+Heating Air Temperature ,  90 °F
+Calculated Cooling Load ,  0.0 Btu/h
+Heating Set Point ,  70 °F
+==========
+Start Extension ,  0
+Join Status ,  Both joins enabled
+Category ,  Structural Framing
+Design Option ,  -1
+Type Id ,  66309
+Reference Level Elevation ,  0
+Family ,  W Shapes
+z Justification ,  Top
+length, 200.00000000000009
+End Level Offset ,  0
+Elevation at Top ,  0
+y Offset Value ,  0
+End Join Cutback ,  1
+Orientation ,  Normal
+Enable Analytical Model ,  Yes
+Stick Symbol Location ,  Center of Geometry
+UniqueId, 37976caf-bafc-45ad-b128-8f494d2cc7e0-0004663c
+End Extension ,  0
+Structural Usage ,  Other
+yz Justification ,  Uniform
+Id, 288316
+Structural Material ,  Steel ASTM A992
+direction, [-3.410605131648481e-13, -200.00000000000009, 0.0]
+Family and Type ,  W Shapes
+Start Level Offset ,  0
+Image ,  <None>
+Length ,  200
+Cut Length ,  207
+endpoint, [399.2979082449785, 208.35068273282312, 0.0]
+End Connection ,  None
+Reference Level ,  Level 0
+Elevation at Bottom ,  -31
+Work Plane ,  Level 
+Volume ,  0.01 m³
+Phase Created ,  Project Completion
+Type ,  W12X26
+z Offset Value ,  0
+Cross-Section Rotation ,  0.00°
+Phase Demolished ,  None
+Host Id ,  -1
+Start Connection ,  None
+startpoint, [399.2979082449788, 408.3506827328232, 0.0]
+y Justification ,  Origin
+==========
+Start Extension ,  0
+Join Status ,  Both joins enabled
+Category ,  Structural Framing
+Design Option ,  -1
+Type Id ,  66309
+Reference Level Elevation ,  0
+Family ,  W Shapes
+z Justification ,  Top
+length, 200.00000000000026
+End Level Offset ,  0
+Elevation at Top ,  0
+y Offset Value ,  0
+Orientation ,  Normal
+Enable Analytical Model ,  Yes
+Stick Symbol Location ,  Center of Geometry
+UniqueId, 37976caf-bafc-45ad-b128-8f494d2cc7e0-00046651
+End Extension ,  0
+Structural Usage ,  Other
+yz Justification ,  Uniform
+Id, 288337
+Structural Material ,  Steel ASTM A992
+direction, [-3.410605131648481e-13, -200.00000000000026, 0.0]
+Family and Type ,  W Shapes
+Start Level Offset ,  0
+Image ,  <None>
+Length ,  200
+Cut Length ,  208
+endpoint, [399.2979082449782, 8.350682732822861, 0.0]
+End Connection ,  None
+Reference Level ,  Level 0
+Elevation at Bottom ,  -31
+Work Plane ,  Level 
+Volume ,  0.01 m³
+Phase Created ,  Project Completion
+Type ,  W12X26
+z Offset Value ,  0
+Cross-Section Rotation ,  0.00°
+Phase Demolished ,  None
+Host Id ,  -1
+Start Connection ,  None
+startpoint, [399.29790824497854, 208.35068273282312, 0.0]
+y Justification ,  Origin
+==========
+Start Extension ,  0
+Join Status ,  Both joins enabled
+Category ,  Structural Framing
+Design Option ,  -1
+Type Id ,  66309
+Reference Level Elevation ,  0
+Family ,  W Shapes
+z Justification ,  Top
+length, 400.0
+End Level Offset ,  0
+Elevation at Top ,  0
+y Offset Value ,  0
+End Join Cutback ,  1
+Orientation ,  Normal
+Enable Analytical Model ,  Yes
+Stick Symbol Location ,  Center of Geometry
+UniqueId, 37976caf-bafc-45ad-b128-8f494d2cc7e0-0004665e
+End Extension ,  0
+Structural Usage ,  Other
+yz Justification ,  Uniform
+Id, 288350
+Structural Material ,  Steel ASTM A992
+direction, [400.0, -1.2931877790833823e-12, 0.0]
+Family and Type ,  W Shapes
+Start Level Offset ,  0
+Image ,  <None>
+Length ,  400
+Start Join Cutback ,  1
+Cut Length ,  389
+endpoint, [799.2979082449782, 8.350682732821578, 0.0]
+End Connection ,  None
+Reference Level ,  Level 0
+Elevation at Bottom ,  -31
+Work Plane ,  Level 
+Volume ,  0.02 m³
+Phase Created ,  Project Completion
+Type ,  W12X26
+z Offset Value ,  0
+Cross-Section Rotation ,  0.00°
+Phase Demolished ,  None
+Host Id ,  -1
+Start Connection ,  None
+startpoint, [399.2979082449782, 8.350682732822872, 0.0]
+y Justification ,  Origin
+==========
+Start Extension ,  0
+Join Status ,  Both joins enabled
+Category ,  Structural Framing
+Design Option ,  -1
+Type Id ,  66309
+Reference Level Elevation ,  0
+Family ,  W Shapes
+z Justification ,  Top
+length, 400.0000000000002
+End Level Offset ,  0
+Elevation at Top ,  0
+y Offset Value ,  0
+End Join Cutback ,  1
+Orientation ,  Normal
+Enable Analytical Model ,  Yes
+Stick Symbol Location ,  Center of Geometry
+UniqueId, 37976caf-bafc-45ad-b128-8f494d2cc7e0-00046671
+End Extension ,  0
+Structural Usage ,  Other
+yz Justification ,  Uniform
+Id, 288369
+Structural Material ,  Steel ASTM A992
+direction, [400.0000000000001, -1.2931877790833823e-12, 0.0]
+Family and Type ,  W Shapes
+Start Level Offset ,  0
+Image ,  <None>
+Length ,  400
+Cut Length ,  390
+endpoint, [1199.2979082449783, 8.350682732820287, 0.0]
+End Connection ,  None
+Reference Level ,  Level 0
+Elevation at Bottom ,  -31
+Work Plane ,  Level 
+Volume ,  0.02 m³
+Phase Created ,  Project Completion
+Type ,  W12X26
+z Offset Value ,  0
+Cross-Section Rotation ,  0.00°
+Phase Demolished ,  None
+Host Id ,  -1
+Start Connection ,  None
+startpoint, [799.2979082449782, 8.35068273282158, 0.0]
+y Justification ,  Origin
+==========
+Start Extension ,  0
+Join Status ,  Both joins enabled
+Category ,  Structural Framing
+Design Option ,  -1
+Type Id ,  66309
+Reference Level Elevation ,  0
+Family ,  W Shapes
+z Justification ,  Top
+length, 200.00000000000023
+End Level Offset ,  0
+Elevation at Top ,  0
+y Offset Value ,  0
+End Join Cutback ,  1
+Orientation ,  Normal
+Enable Analytical Model ,  Yes
+Stick Symbol Location ,  Center of Geometry
+UniqueId, 37976caf-bafc-45ad-b128-8f494d2cc7e0-00046680
+End Extension ,  0
+Structural Usage ,  Other
+yz Justification ,  Uniform
+Id, 288384
+Structural Material ,  Steel ASTM A992
+direction, [2.2737367544323206e-13, 200.00000000000023, 0.0]
+Family and Type ,  W Shapes
+Start Level Offset ,  0
+Image ,  <None>
+Length ,  200
+Cut Length ,  207
+endpoint, [1199.2979082449788, 208.3506827328205, 0.0]
+End Connection ,  None
+Reference Level ,  Level 0
+Elevation at Bottom ,  -31
+Work Plane ,  Level 
+Volume ,  0.01 m³
+Phase Created ,  Project Completion
+Type ,  W12X26
+z Offset Value ,  0
+Cross-Section Rotation ,  0.00°
+Phase Demolished ,  None
+Host Id ,  -1
+Start Connection ,  None
+startpoint, [1199.2979082449785, 8.350682732820287, 0.0]
+y Justification ,  Origin
+==========
+Start Extension ,  0
+Join Status ,  Both joins enabled
+Category ,  Structural Framing
+Design Option ,  -1
+Type Id ,  66309
+Reference Level Elevation ,  0
+Family ,  W Shapes
+z Justification ,  Top
+length, 200.00000000000003
+End Level Offset ,  0
+Elevation at Top ,  0
+y Offset Value ,  0
+Orientation ,  Normal
+Enable Analytical Model ,  Yes
+Stick Symbol Location ,  Center of Geometry
+UniqueId, 37976caf-bafc-45ad-b128-8f494d2cc7e0-00046692
+End Extension ,  0
+Structural Usage ,  Other
+yz Justification ,  Uniform
+Id, 288402
+Structural Material ,  Steel ASTM A992
+direction, [2.2737367544323206e-13, 200.00000000000006, 0.0]
+Family and Type ,  W Shapes
+Start Level Offset ,  0
+Image ,  <None>
+Length ,  200
+Cut Length ,  208
+endpoint, [1199.297908244979, 408.3506827328206, 0.0]
+End Connection ,  None
+Reference Level ,  Level 0
+Elevation at Bottom ,  -31
+Work Plane ,  Level 
+Volume ,  0.01 m³
+Phase Created ,  Project Completion
+Type ,  W12X26
+z Offset Value ,  0
+Cross-Section Rotation ,  0.00°
+Phase Demolished ,  None
+Host Id ,  -1
+Start Connection ,  None
+startpoint, [1199.2979082449788, 208.35068273282053, 0.0]
+y Justification ,  Origin
+==========
+Start Extension ,  0
+Join Status ,  Both joins enabled
+Category ,  Structural Framing
+Design Option ,  -1
+Type Id ,  66309
+Reference Level Elevation ,  0
+Family ,  W Shapes
+z Justification ,  Top
+length, 400.0
+End Level Offset ,  0
+Elevation at Top ,  0
+y Offset Value ,  0
+End Join Cutback ,  1
+Orientation ,  Normal
+Enable Analytical Model ,  Yes
+Stick Symbol Location ,  Center of Geometry
+UniqueId, 37976caf-bafc-45ad-b128-8f494d2cc7e0-0004669f
+End Extension ,  0
+Structural Usage ,  Other
+yz Justification ,  Uniform
+Id, 288415
+Structural Material ,  Steel ASTM A992
+direction, [-400.0, 1.3073986337985843e-12, 0.0]
+Family and Type ,  W Shapes
+Start Level Offset ,  0
+Image ,  <None>
+Length ,  400
+Start Join Cutback ,  1
+Cut Length ,  389
+endpoint, [799.297908244979, 408.3506827328219, 0.0]
+End Connection ,  None
+Reference Level ,  Level 0
+Elevation at Bottom ,  -31
+Work Plane ,  Level 
+Volume ,  0.02 m³
+Phase Created ,  Project Completion
+Type ,  W12X26
+z Offset Value ,  0
+Cross-Section Rotation ,  0.00°
+Phase Demolished ,  None
+Host Id ,  -1
+Start Connection ,  None
+startpoint, [1199.297908244979, 408.3506827328206, 0.0]
+y Justification ,  Origin
+==========
+Start Extension ,  0
+Join Status ,  Both joins enabled
+Category ,  Structural Framing
+Design Option ,  -1
+Type Id ,  66309
+Reference Level Elevation ,  0
+Family ,  W Shapes
+z Justification ,  Top
+length, 400.0
+End Level Offset ,  0
+Elevation at Top ,  0
+y Offset Value ,  0
+End Join Cutback ,  1
+Orientation ,  Normal
+Enable Analytical Model ,  Yes
+Stick Symbol Location ,  Center of Geometry
+UniqueId, 37976caf-bafc-45ad-b128-8f494d2cc7e0-000466b1
+End Extension ,  0
+Structural Usage ,  Other
+yz Justification ,  Uniform
+Id, 288433
+Structural Material ,  Steel ASTM A992
+direction, [-400.0, 1.3073986337985843e-12, 0.0]
+Family and Type ,  W Shapes
+Start Level Offset ,  0
+Image ,  <None>
+Length ,  400
+Cut Length ,  389
+endpoint, [399.2979082449789, 408.35068273282315, 0.0]
+End Connection ,  None
+Reference Level ,  Level 0
+Elevation at Bottom ,  -31
+Work Plane ,  Level 
+Volume ,  0.02 m³
+Phase Created ,  Project Completion
+Type ,  W12X26
+z Offset Value ,  0
+Cross-Section Rotation ,  0.00°
+Phase Demolished ,  None
+Host Id ,  -1
+Start Connection ,  None
+startpoint, [799.2979082449789, 408.35068273282184, 0.0]
+y Justification ,  Origin
+==========
+Elevation at Top Core ,  310
+Category ,  Floors
+Perimeter ,  2480
+Design Option ,  -1
+Rebar Cover - Top Face ,  Rebar Cover 1 <0' - 1">
+Type Id ,  7851
+Family ,  Floor
+Thickness ,  15
+Related to Mass ,  No
+Rebar Cover - Other Faces ,  Rebar Cover 1 <0' - 1">
+Elevation at Bottom Core ,  295
+Elevation at Top ,  310
+Structural ,  Yes
+Room Bounding ,  Yes
+Enable Analytical Model ,  Yes
+UniqueId, 37976caf-bafc-45ad-b128-8f494d2cc7e0-000465e3
+Id, 288227
+Core Thickness ,  15
+Family and Type ,  Floor
+Elevation at Top Survey ,  310
+Slope ,  0.00°
+Image ,  <None>
+Rebar Cover - Bottom Face ,  Rebar Cover 1 <0' - 1">
+Area ,  35 m²
+Elevation at Bottom ,  295
+Volume ,  5.31 m³
+Phase Created ,  Project Completion
+Type ,  Concrete Slab - 6"
+Elevation at Bottom Survey ,  295
+Phase Demolished ,  None
+Height Offset From Level ,  0
+Level ,  Level 1
+==========
+Category ,  Walls
+Base Constraint ,  Level 0
+Top Constraint ,  Up to level
+Design Option ,  -1
+Type Id ,  1836
+Family ,  Basic Wall
+Related to Mass ,  No
+Rebar Cover - Interior Face ,  Rebar Cover 1 <0' - 1">
+Rebar Cover - Other Faces ,  Rebar Cover 1 <0' - 1">
+length, 200.0
+Structural ,  Yes
+Room Bounding ,  Yes
+Top is Attached ,  No
+Base is Attached ,  No
+Enable Analytical Model ,  Yes
+UniqueId, b772dc8c-acf7-4538-a01f-af3a49839f9c-000467af
+Structural Usage ,  Bearing
+Id, 288687
+Rebar Cover - Exterior Face ,  Rebar Cover 1 <0' - 1">
+Base Offset ,  0
+direction, [-3.410605131648481e-13, -200.0, 0.0]
+Top Extension Distance ,  0
+Family and Type ,  Basic Wall
+Image ,  <None>
+Top Offset ,  0
+Base Extension Distance ,  0
+Length ,  200
+Area ,  7 m²
+Location Line ,  Core Centerline
+endpoint, [399.2979082449783, 8.350682732823117, 0.0]
+Volume ,  1.32 m³
+Cross-Section ,  Vertical
+Phase Created ,  Project Completion
+Type ,  Generic - 8"
+Phase Demolished ,  None
+startpoint, [399.29790824497866, 208.35068273282312, 0.0]
+Unconnected Height ,  310
+==========
+Category ,  Walls
+Base Constraint ,  Level 0
+Top Constraint ,  Up to level
+Design Option ,  -1
+Type Id ,  1836
+Family ,  Basic Wall
+Related to Mass ,  No
+Rebar Cover - Interior Face ,  Rebar Cover 1 <0' - 1">
+Rebar Cover - Other Faces ,  Rebar Cover 1 <0' - 1">
+length, 399.9999999999999
+Structural ,  Yes
+Room Bounding ,  Yes
+Top is Attached ,  No
+Base is Attached ,  No
+Enable Analytical Model ,  Yes
+UniqueId, b772dc8c-acf7-4538-a01f-af3a49839f9c-0004682e
+Structural Usage ,  Bearing
+Id, 288814
+Rebar Cover - Exterior Face ,  Rebar Cover 1 <0' - 1">
+Base Offset ,  0
+direction, [399.9999999999999, -1.2949641359227826e-12, 0.0]
+Top Extension Distance ,  0
+Family and Type ,  Basic Wall
+Image ,  <None>
+Top Offset ,  0
+Base Extension Distance ,  0
+Length ,  400
+Area ,  12 m²
+Location Line ,  Core Centerline
+endpoint, [799.2979082449782, 8.350682732821824, 0.0]
+Volume ,  2.46 m³
+Cross-Section ,  Vertical
+Phase Created ,  Project Completion
+Type ,  Generic - 8"
+Phase Demolished ,  None
+startpoint, [399.2979082449783, 8.350682732823119, 0.0]
+Unconnected Height ,  310
+==========
+Category ,  Walls
+Base Constraint ,  Level 0
+Top Constraint ,  Up to level
+Design Option ,  -1
+Type Id ,  1836
+Family ,  Basic Wall
+Related to Mass ,  No
+Rebar Cover - Interior Face ,  Rebar Cover 1 <0' - 1">
+Rebar Cover - Other Faces ,  Rebar Cover 1 <0' - 1">
+length, 200.00000000000009
+Structural ,  Yes
+Room Bounding ,  Yes
+Top is Attached ,  No
+Base is Attached ,  No
+Enable Analytical Model ,  Yes
+UniqueId, b772dc8c-acf7-4538-a01f-af3a49839f9c-0004687d
+Structural Usage ,  Bearing
+Id, 288893
+Rebar Cover - Exterior Face ,  Rebar Cover 1 <0' - 1">
+Base Offset ,  -30
+direction, [3.410605131648481e-13, 200.00000000000009, 0.0]
+Top Extension Distance ,  0
+Family and Type ,  Basic Wall
+Image ,  <None>
+Top Offset ,  0
+Base Extension Distance ,  0
+Length ,  200
+Area ,  1 m²
+Location Line ,  Core Centerline
+endpoint, [399.297908244979, 408.3506827328232, 0.0]
+Volume ,  0.12 m³
+Cross-Section ,  Vertical
+Phase Created ,  Project Completion
+Type ,  Generic - 8"
+Phase Demolished ,  None
+startpoint, [399.29790824497866, 208.35068273282312, 0.0]
+Unconnected Height ,  30
+==========
+Category ,  Walls
+Base Constraint ,  Level 0
+Top Constraint ,  Up to level
+Design Option ,  -1
+Type Id ,  1836
+Family ,  Basic Wall
+Related to Mass ,  No
+Rebar Cover - Interior Face ,  Rebar Cover 1 <0' - 1">
+Rebar Cover - Other Faces ,  Rebar Cover 1 <0' - 1">
+length, 200.00000000000009
+Structural ,  Yes
+Room Bounding ,  Yes
+Top is Attached ,  No
+Base is Attached ,  No
+Enable Analytical Model ,  Yes
+UniqueId, b772dc8c-acf7-4538-a01f-af3a49839f9c-000468f7
+Structural Usage ,  Bearing
+Id, 289015
+Rebar Cover - Exterior Face ,  Rebar Cover 1 <0' - 1">
+Base Offset ,  -30
+direction, [-3.410605131648481e-13, -200.00000000000009, 0.0]
+Top Extension Distance ,  0
+Family and Type ,  Basic Wall
+Image ,  <None>
+Top Offset ,  0
+Base Extension Distance ,  0
+Length ,  200
+Area ,  1 m²
+Location Line ,  Core Centerline
+endpoint, [399.2979082449785, 208.35068273282312, 0.0]
+Volume ,  0.12 m³
+Cross-Section ,  Vertical
+Phase Created ,  Project Completion
+Type ,  Generic - 8"
+Phase Demolished ,  None
+startpoint, [399.2979082449788, 408.3506827328232, 0.0]
+Unconnected Height ,  30
+==========
+Category ,  Structural Columns
+Design Option ,  -1
+Rebar Cover - Top Face ,  Rebar Cover 1 <0' - 1">
+Type Id ,  285239
+Family ,  Concrete-Rectangular-Column
+Base Level ,  Level 0
+Rebar Cover - Other Faces ,  Rebar Cover 1 <0' - 1">
+Room Bounding ,  Yes
+Enable Analytical Model ,  Yes
+Column Location Mark ,  1-4
+UniqueId, 37976caf-bafc-45ad-b128-8f494d2cc7e0-00046399
+Moves With Grids ,  Yes
+Id, 287641
+Base Offset ,  0
+Column Style ,  Vertical
+Structural Material ,  Concrete, Cast-in-Place gray
+Family and Type ,  Concrete-Rectangular-Column
+Image ,  <None>
+Top Offset ,  274
+Rebar Cover - Bottom Face ,  Rebar Cover 1 <0' - 1">
+Length ,  584
+Top Level ,  Level 1
+Volume ,  0.46 m³
+point, [399.2979082449788, 408.3506827328232, 0.0]
+Phase Created ,  Project Completion
+Type ,  20/40
+Phase Demolished ,  None
+Host Id ,  -1
+Level ,  Level 0
+==========
+Category ,  Structural Columns
+Design Option ,  -1
+Rebar Cover - Top Face ,  Rebar Cover 1 <0' - 1">
+Type Id ,  285239
+Family ,  Concrete-Rectangular-Column
+Base Level ,  Level 0
+Rebar Cover - Other Faces ,  Rebar Cover 1 <0' - 1">
+Room Bounding ,  Yes
+Enable Analytical Model ,  Yes
+Column Location Mark ,  1-5
+UniqueId, 37976caf-bafc-45ad-b128-8f494d2cc7e0-000463dd
+Moves With Grids ,  Yes
+Id, 287709
+Base Offset ,  0
+Column Style ,  Vertical
+Structural Material ,  Concrete, Cast-in-Place gray
+Family and Type ,  Concrete-Rectangular-Column
+Image ,  <None>
+Top Offset ,  274
+Length ,  584
+Top Level ,  Level 1
+Volume ,  0.34 m³
+point, [399.29790824497866, 208.35068273282312, 0.0]
+Phase Created ,  Project Completion
+Type ,  20/40
+Phase Demolished ,  None
+Host Id ,  -1
+Level ,  Level 0
+==========
+Category ,  Structural Columns
+Design Option ,  -1
+Rebar Cover - Top Face ,  Rebar Cover 1 <0' - 1">
+Type Id ,  285239
+Family ,  Concrete-Rectangular-Column
+Base Level ,  Level 0
+Rebar Cover - Other Faces ,  Rebar Cover 1 <0' - 1">
+Room Bounding ,  Yes
+Enable Analytical Model ,  Yes
+Column Location Mark ,  1-6
+UniqueId, 37976caf-bafc-45ad-b128-8f494d2cc7e0-0004642a
+Moves With Grids ,  Yes
+Id, 287786
+Base Offset ,  0
+Column Style ,  Vertical
+Structural Material ,  Concrete, Cast-in-Place gray
+Family and Type ,  Concrete-Rectangular-Column
+Image ,  <None>
+Top Offset ,  274
+Rebar Cover - Bottom Face ,  Rebar Cover 1 <0' - 1">
+Length ,  584
+Top Level ,  Level 1
+Volume ,  0.28 m³
+point, [399.2979082449782, 8.350682732822882, 0.0]
+Phase Created ,  Project Completion
+Type ,  20/40
+Phase Demolished ,  None
+Host Id ,  -1
+Level ,  Level 0
+==========
+Category ,  Structural Columns
+Design Option ,  -1
+Rebar Cover - Top Face ,  Rebar Cover 1 <0' - 1">
+Type Id ,  285239
+Family ,  Concrete-Rectangular-Column
+Base Level ,  Level 0
+Rebar Cover - Other Faces ,  Rebar Cover 1 <0' - 1">
+Room Bounding ,  Yes
+Enable Analytical Model ,  Yes
+Column Location Mark ,  2-6
+UniqueId, 37976caf-bafc-45ad-b128-8f494d2cc7e0-00046475
+Moves With Grids ,  Yes
+Id, 287861
+Base Offset ,  0
+Column Style ,  Vertical
+Structural Material ,  Concrete, Cast-in-Place gray
+Family and Type ,  Concrete-Rectangular-Column
+Image ,  <None>
+Top Offset ,  274
+Rebar Cover - Bottom Face ,  Rebar Cover 1 <0' - 1">
+Length ,  584
+Top Level ,  Level 1
+Volume ,  0.40 m³
+point, [799.2979082449782, 8.350682732821587, 0.0]
+Phase Created ,  Project Completion
+Type ,  20/40
+Phase Demolished ,  None
+Host Id ,  -1
+Level ,  Level 0
+==========
+Category ,  Structural Columns
+Design Option ,  -1
+Rebar Cover - Top Face ,  Rebar Cover 1 <0' - 1">
+Type Id ,  285239
+Family ,  Concrete-Rectangular-Column
+Base Level ,  Level 0
+Rebar Cover - Other Faces ,  Rebar Cover 1 <0' - 1">
+Room Bounding ,  Yes
+Enable Analytical Model ,  Yes
+Column Location Mark ,  3-6
+UniqueId, 37976caf-bafc-45ad-b128-8f494d2cc7e0-000464a4
+Moves With Grids ,  Yes
+Id, 287908
+Base Offset ,  0
+Column Style ,  Vertical
+Structural Material ,  Concrete, Cast-in-Place gray
+Family and Type ,  Concrete-Rectangular-Column
+Image ,  <None>
+Top Offset ,  274
+Rebar Cover - Bottom Face ,  Rebar Cover 1 <0' - 1">
+Length ,  584
+Top Level ,  Level 1
+Volume ,  0.46 m³
+point, [1199.2979082449783, 8.350682732820289, 0.0]
+Phase Created ,  Project Completion
+Type ,  20/40
+Phase Demolished ,  None
+Host Id ,  -1
+Level ,  Level 0
+==========
+Category ,  Structural Columns
+Design Option ,  -1
+Rebar Cover - Top Face ,  Rebar Cover 1 <0' - 1">
+Type Id ,  285239
+Family ,  Concrete-Rectangular-Column
+Base Level ,  Level 0
+Rebar Cover - Other Faces ,  Rebar Cover 1 <0' - 1">
+Room Bounding ,  Yes
+Enable Analytical Model ,  Yes
+Column Location Mark ,  3-5
+UniqueId, 37976caf-bafc-45ad-b128-8f494d2cc7e0-000464d7
+Moves With Grids ,  Yes
+Id, 287959
+Base Offset ,  0
+Column Style ,  Vertical
+Structural Material ,  Concrete, Cast-in-Place gray
+Family and Type ,  Concrete-Rectangular-Column
+Image ,  <None>
+Top Offset ,  274
+Rebar Cover - Bottom Face ,  Rebar Cover 1 <0' - 1">
+Length ,  584
+Top Level ,  Level 1
+Volume ,  0.46 m³
+point, [1199.2979082449788, 208.35068273282053, 0.0]
+Phase Created ,  Project Completion
+Type ,  20/40
+Phase Demolished ,  None
+Host Id ,  -1
+Level ,  Level 0
+==========
+Category ,  Structural Columns
+Design Option ,  -1
+Rebar Cover - Top Face ,  Rebar Cover 1 <0' - 1">
+Type Id ,  285239
+Family ,  Concrete-Rectangular-Column
+Base Level ,  Level 0
+Rebar Cover - Other Faces ,  Rebar Cover 1 <0' - 1">
+Room Bounding ,  Yes
+Enable Analytical Model ,  Yes
+Column Location Mark ,  3-4
+UniqueId, 37976caf-bafc-45ad-b128-8f494d2cc7e0-00046508
+Moves With Grids ,  Yes
+Id, 288008
+Base Offset ,  0
+Column Style ,  Vertical
+Structural Material ,  Concrete, Cast-in-Place gray
+Family and Type ,  Concrete-Rectangular-Column
+Image ,  <None>
+Top Offset ,  274
+Rebar Cover - Bottom Face ,  Rebar Cover 1 <0' - 1">
+Length ,  584
+Top Level ,  Level 1
+Volume ,  0.46 m³
+point, [1199.297908244979, 408.3506827328206, 0.0]
+Phase Created ,  Project Completion
+Type ,  20/40
+Phase Demolished ,  None
+Host Id ,  -1
+Level ,  Level 0
+==========
+Category ,  Structural Columns
+Design Option ,  -1
+Rebar Cover - Top Face ,  Rebar Cover 1 <0' - 1">
+Type Id ,  285239
+Family ,  Concrete-Rectangular-Column
+Base Level ,  Level 0
+Rebar Cover - Other Faces ,  Rebar Cover 1 <0' - 1">
+Room Bounding ,  Yes
+Enable Analytical Model ,  Yes
+Column Location Mark ,  2-4
+UniqueId, 37976caf-bafc-45ad-b128-8f494d2cc7e0-00046545
+Moves With Grids ,  Yes
+Id, 288069
+Base Offset ,  0
+Column Style ,  Vertical
+Structural Material ,  Concrete, Cast-in-Place gray
+Family and Type ,  Concrete-Rectangular-Column
+Image ,  <None>
+Top Offset ,  274
+Rebar Cover - Bottom Face ,  Rebar Cover 1 <0' - 1">
+Length ,  584
+Top Level ,  Level 1
+Volume ,  0.46 m³
+point, [799.2979082449789, 408.35068273282184, 0.0]
+Phase Created ,  Project Completion
+Type ,  20/40
+Phase Demolished ,  None
+Host Id ,  -1
+Level ,  Level 0
+==========
